@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(245, 237, 237);
+}
+.card{
+    width: 25%;
+    border: 1px solid green;
+    padding: 20px;
+}
+.codediv{
+    width: 100%;
+}
+.cardtitle{
+    margin-bottom: 50px;
+}
+.Waterdroplets{
+    width: 150px;
+    height: 150px;
+    border-radius: 0 50% 50% 50%;
+    background-color: rgb(245, 17, 17);
+    transform: rotate(45deg);
+}
